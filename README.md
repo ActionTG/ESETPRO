@@ -10,7 +10,7 @@
 <h6>[ این کد ها را وارد کنیید •)</h6>
 <pre>
 <span>git clone https://github.com/ActionTG/ESETPRO.git<span>
-<span>cd eset<span>
+<span>cd ESETPRO<span>
 <span>chmod +x bot<span>
 <span>./bot install<span>
 </pre>
@@ -43,12 +43,12 @@
 <h4> <strong>[• ترمینال جدید دیگری را باز کرده و این دستورات را بزنید ]<br></strong>
 
 
-<span>cd eset<span>
+<span>cd ESETPRO<span>
 <span>&& screen ./bot api<span>
 
 <h4> <strong>[• برای درست کردن امکانات فان دستورات زیر را بزنید ]<br></strong>
 
-<span>cd eset && unzip data.zip<span>
+<span>cd ESETPRO && unzip data.zip<span>
 
  edited and dubuged by : @MinuteMen :)
  
